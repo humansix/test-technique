@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <orders>
     <order id="1">
-        <customer id="2">
+        <customer id="1">
             <firstname>John</firstname>
             <lastname>Dow</lastname>
         </customer>
@@ -17,7 +17,7 @@
         </cart>
     </order>
     <order id="2">
-        <customer id="2">
+        <customer id="1">
             <firstname>John</firstname>
             <lastname>Dow</lastname>
         </customer>
@@ -59,7 +59,7 @@
         </cart>
     </order>
     <order id="4">
-        <customer id="4">
+        <customer id="3">
             <firstname>John</firstname>
             <lastname>Snow</lastname>
         </customer>
