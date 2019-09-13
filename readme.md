@@ -8,7 +8,7 @@ Le frontend peut se faire librement (html5, jquery, react, vuejs, template, ...)
 
 Vous êtes libre dans le choix de la base de données.
 
-Vous devrez indiquer comment installer votre projet (installation manuelle, docker, varnish, etc).
+Vous devrez indiquer comment installer votre projet (installation manuelle, docker, vagrant, etc).
 
 ## Step 1 - Mise en place d'une base
 
