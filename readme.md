@@ -2,7 +2,7 @@
 
 Le but de ce test est de mesurer le niveau technique du candidat et la façon de résoudre une problématique. Cela permet aussi de comprendre l'affinité d'un candidat avec le backend ou le frontend.
 
-Le backend doit se faire via du php ou un CMS php de votre choix.
+Le backend doit se faire en php from scratch, framework (Symfony, Laravel, etc) ou un CMS php de votre choix (Drupal, Wordpress, etc).
 
 Le frontend peut se faire librement (html5, jquery, react, vuejs, template, ...).
 
